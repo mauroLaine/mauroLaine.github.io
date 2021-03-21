@@ -2,7 +2,7 @@
 layout: default
 title:  "Maximum Pairwise Product"
 date:   2021-02-26 17:23:45 -0800
-categories: jekyll update
+categories: algorithms
 ---
 
 # Maximum Pairwise Product
@@ -38,7 +38,7 @@ Output:
 | **4** | 8 | 28 |  | 
 
 
-## Naive Algorithm
+## Naive algorithm
 
 ```
 maxPairwiseProductNaive(A[1..n]):
@@ -50,7 +50,7 @@ for i from 1 to n:
         product <- A[i]*A[j]
 return product        
 ```
-## Fast Algorithm
+## Fast algorithm
 
 ```
 maxPairwiseProductFast(A[1..n]):
@@ -68,7 +68,7 @@ from i from 1 to n:
 return A[index1] * A[index2]        
 ```
 
-## Implementation
+## Python implementation
 
 ```python
 def max_pairwise_product(numbers):
