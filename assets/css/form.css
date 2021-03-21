@@ -1,0 +1,15 @@
+input, textarea, button {
+    margin-top: 15px;
+  }
+
+  textarea {
+    height: 150px;
+    width: 53%;  
+    resize: none;
+  }
+
+  button {
+    width: 24%; 
+    color: #FFF;
+    background-color: #159957;
+  }

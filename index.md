@@ -13,4 +13,4 @@ This section gives a brief introduction to the most popular algorithms in comput
 
 * * *
 
-[About](./about/)
+[Contact](./contact/)
