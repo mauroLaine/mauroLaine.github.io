@@ -10,6 +10,7 @@ layout: default
 This section gives a brief introduction to the most popular algorithms in computer science. Also, it shows the naive and optimized pseudocode and implementation using Python. 
 
 *   [Max Pairwise Product](/algorithms/2021/02/26/maximum-pairwise-product.html)
+*   [Fibonacci Number](/algorithms/2021/03/10/fibonacci.html)
 
 * * *
 
