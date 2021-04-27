@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
 title:  "Fibonacci Number"
 date:   2021-03-10 17:23:45 -0800
+featured-img: sleek
 categories: algorithms
 ---
 

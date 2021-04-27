@@ -5,7 +5,7 @@
 layout: default
 ---
 
-# Algorithms
+# Index
 
 This section gives a brief introduction to the most popular algorithms in computer science. Also, it shows the pseudocode for the naive and optimized version of the algorithm. Finally, the fastest algorithm is implemented in Python.  
 
