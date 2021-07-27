@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog with coding examples for Android, PL/SQL, and algorithmic problem solving with Python.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maurolaine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
 github_username:  mauroLaine
 
 # Build settings
@@ -53,6 +52,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   # - {name: 'About', link: '/about'}
+  - {name: 'Projects', link: '/projects'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
