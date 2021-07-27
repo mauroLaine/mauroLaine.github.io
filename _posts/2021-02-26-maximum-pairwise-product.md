@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Maximum Pairwise Product"
 date:   2021-02-26 17:23:45 -0800
 categories: algorithms
