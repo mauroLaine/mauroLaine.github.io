@@ -15,5 +15,5 @@ My current focus is on machine learning mechanisms to identify objects in mobile
 
 I'm passionate about solving computational problems, trying new algorithms, and implementing solutions efficiently. 
 
-When not coding. I'm usually hiking, taking photos, or traveling.
+When not coding. I'm usually hiking, taking [photos](https://ml-photos.com/), or traveling.
 
